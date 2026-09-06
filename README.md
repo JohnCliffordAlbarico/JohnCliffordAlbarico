@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header" alt="header" />
 
 <h1 align="center">John Clifford M. Albarico</h1>
-<p align="center">Software Developer — open to work</p>
+<p align="center">Software Developer</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Web+%C2%B7+Mobile+%C2%B7+Desktop;React+%C2%B7+React+Native+%C2%B7+Electron;Node+%2B+Express+behind+them;Supabase+%2F+Postgres+most+days" alt="typing" /></a>
@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://github.com/JohnCliffordAlbarico"><img src="https://img.shields.io/badge/GitHub-JohnCliffordAlbarico-181717?style=flat&logo=github" alt="github" /></a>
-  <img src="https://img.shields.io/badge/Status-open_to_work-brightgreen?style=flat" alt="status" />
   <img src="https://img.shields.io/badge/BSIT-Cum_Laude-blue?style=flat" alt="honors" />
 </p>
 
@@ -32,7 +31,7 @@
   <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white" alt="r2" />
 </p>
 
-JavaScript and TypeScript core. React on web, React Native on mobile, Electron on desktop, Node plus Express behind them. Supabase and Postgres most days, Neon, TursoDB, and SQLite where offline or edge fits. Earlier years in Python, Java, and FastAPI. I ship with Docker, Render, Vercel, and R2.
+JavaScript and TypeScript core. React on web, React Native on mobile, Electron on desktop, Node plus Express behind them. Supabase and Postgres most days, TursoDB and SQLite where offline or edge fits. Earlier years in Python, Java, and FastAPI. I ship with Docker, Render, Vercel, and R2.
 
 ### Builds
 
@@ -50,8 +49,13 @@ Background: fundamentals first in C, Java, and data structures, then web basics 
 ### Numbers
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnCliffordAlbarico&show_icons=true&theme=github_dark&hide_border=true&custom_title=Repos+so+far" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCliffordAlbarico&layout=compact&theme=github_dark&hide_border=true" alt="langs" />
+  <img src="https://streak-stats.demolab.com?user=JohnCliffordAlbarico&theme=dark&hide_border=true" alt="streak" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnCliffordAlbarico&theme=github_dark" alt="summary stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnCliffordAlbarico&theme=github_dark" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnCliffordAlbarico&theme=github_dark" alt="top language" />
 </p>
 
 ### Reach me
